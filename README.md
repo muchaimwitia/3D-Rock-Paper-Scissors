@@ -12,7 +12,7 @@ Certainly! Below are some potential features that you can include in the README 
 3D Rock-Paper-Scissors Game
 Welcome to the 3D Rock-Paper-Scissors Game! This classic game gets a modern twist with immersive 3D graphics and dynamic gameplay. Engage in strategic battles with animated rock, paper, and scissors characters in a visually stunning environment.
 
-#Features:
+# Features:
 1. Immersive 3D Environment
 2. Unique Character Animations
 3. Responsive Controls
