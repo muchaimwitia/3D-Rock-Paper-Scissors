@@ -5,3 +5,10 @@ This project combines the classic game with a modern twist by introducing a thre
 
 Explore existing 3D games and traditional rock-paper-scissors implementations.
 Highlight unique features and improvements in our version.
+
+# Features:
+1. Immersive 3D Environment
+2. Unique Character Animations
+3. Responsive Controls
+4. Multiplayer Support
+
